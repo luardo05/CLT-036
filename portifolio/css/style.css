@@ -1,0 +1,17 @@
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    text-align: center;
+}
+body{
+    text-align: center;
+    align-items: center;
+}
+
+.divIframe {
+    width: 100%;
+    min-height: 600px;
+    display: flex;
+    justify-content: center;
+}
+
